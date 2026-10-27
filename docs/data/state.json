@@ -1,9 +1,9 @@
 {
-  "prev_exposure": 0.0,
-  "prev_prob_signal": 0,
-  "pending_cost": 0.0,
+  "prev_exposure": 1.743213772773743,
+  "prev_prob_signal": 1,
+  "pending_cost": 0.0005229641318321228,
   "equity": 1.0136159793011101,
-  "last_decision_date": "2026-10-23",
-  "last_train_week": "2026-W43",
-  "last_train_date": "2026-10-19"
+  "last_decision_date": "2026-10-27",
+  "last_train_week": "2026-W44",
+  "last_train_date": "2026-10-26"
 }
